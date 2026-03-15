@@ -1,5 +1,7 @@
 # Amazon-Sales-Analysis-Dashboard
+
 Interactive Amazon Sales Dashboard analyzing sales trends, customer segments, profit, and order distribution using Power BI.
+
 # Amazon Sales Dashboard Analysis
 
 ## Project Overview
@@ -49,5 +51,3 @@ This project analyzes Amazon sales data using an interactive dashboard. The obje
 
 ## Dashboard Preview
 ![Amazon Sales Dashboard](dashboard.png)
-![Amazon Sales Dashboard](new_screenshot.png)
-![Dashboard](dashboard_preview.png)
