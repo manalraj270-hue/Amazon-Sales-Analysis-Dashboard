@@ -6,6 +6,21 @@ Interactive Amazon Sales Dashboard analyzing sales trends, customer segments, pr
 
 This project analyzes Amazon sales data using an interactive dashboard. The objective is to understand sales trends, customer behavior, and product profitability.
 
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Visualization
+- Business Analytics
+- Power BI Dashboard Design
+- Data Interpretation
+
+## Project Structure
+
+- AmazonSalesReport.pbix → Power BI Dashboard file
+- Amazon Store Sales Data.xlsx → Dataset used for analysis
+- Screenshot.png → Dashboard preview
+- README.md → Project documentation
+
 ## Dashboard Metrics
 
 * Total Sales: 1.57M
