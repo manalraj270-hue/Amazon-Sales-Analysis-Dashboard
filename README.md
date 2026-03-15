@@ -48,6 +48,6 @@ This project analyzes Amazon sales data using an interactive dashboard. The obje
 * Plan marketing campaigns around seasonal demand periods.
 
 ## Dashboard Preview
-![Amazon Sales Dashboard](Screenshot%202026-03-15%20135126.png)
-
+![Amazon Sales Dashboard](new_screenshot.png)
+![Amazon Sales Dashboard](new_screenshot.png)
 ![Dashboard](dashboard_preview.png)
